@@ -6,8 +6,8 @@ longLength=57.6;
 shortLength=19.3;
 height=8.3;
 thickeness=5.43;
-smallDiameter=3.1;
-largeDiameter=3.6;
+smallDiameter=3.0;
+largeDiameter=4.0;
 
 difference() {
     cube(size=[longLength,thickeness,height]);
